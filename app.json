@@ -1,0 +1,25 @@
+{
+  "name": "AnimeFox",
+  "displayName": "AnimeFox",
+  "expo": {
+    "name": "AnimeFox",
+    "slug": "AnimeFox",
+    "version": "1.0.0",
+    "icon":"./static/icon.png",
+    "splash": {
+      "image": "./static/splash.png",
+      "backgroundColor": "#23252F",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.shakileash.AnimeFox",
+      "adaptiveIcon":{
+        "foregroundImage":"./static/icon.png",
+      }
+    }
+  },
+  
+}

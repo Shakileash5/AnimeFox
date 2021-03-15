@@ -19,10 +19,27 @@ What makes our app standout!
 
 # TechStack 👨‍💻
 * FrontEnd : React Native ⚛
-* BackEnd  : Flask (Repo link - [Anime_streme](https://github.com/ArviRA/ANIME_STREAM)) 🔮
+* BackEnd  : Flask (Repo link - [Anime_stream](https://github.com/ArviRA/ANIME_STREAM)) 🔮
 * Database : Firebase 🔥 
 
 # App Design
+<div style="width: 100%;">
+    <div style="width: 80%;
+        display: flex;
+        flex-direction: row;">
+        <img src="https://raw.githubusercontent.com/ArviRA/ANIME_STREAM/master/scrn_shot/splash_screen.png" width="50%">
+        <img src="https://raw.githubusercontent.com/ArviRA/ANIME_STREAM/master/scrn_shot/home_page.png" width="50%">
+        <img src="https://raw.githubusercontent.com/ArviRA/ANIME_STREAM/master/scrn_shot/search_screen.png" width="50%">
+    </div>
+    <div style="width: 80%;
+        display: flex;
+        flex-direction: row;margin:5px 0px">
+        <img src="https://raw.githubusercontent.com/ArviRA/ANIME_STREAM/master/scrn_shot/favorites_screen.png" width="50%">
+        <img src="https://github.com/ArviRA/ANIME_STREAM/blob/master/scrn_shot/episode_info.png?raw=true" width="50%">
+        <img src="https://raw.githubusercontent.com/ArviRA/ANIME_STREAM/master/scrn_shot/logout_screen.png" width="50%">
+    </div>
+
+</div>
 
 # Prerequisites
 Make sure you have knowledge about react-native,yarn and expo-cli. Follow the [official documentation](https://reactnative.dev/docs/environment-setup).

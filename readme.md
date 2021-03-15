@@ -15,11 +15,11 @@ What makes our app standout!
 
 * No Advertisements 🙅
 * Unlimited Binge 🎬
-* Mark your favourites and track the progress 🎯 
+* Mark your favourites and track progress 🎯 
 
 # TechStack 👨‍💻
-* FrontEnd : React Native
-* BackEnd  : Flask (Repo link - [Anime_streme](https://github.com/ArviRA/ANIME_STREAM))
+* FrontEnd : React Native ⚛
+* BackEnd  : Flask (Repo link - [Anime_streme](https://github.com/ArviRA/ANIME_STREAM)) 🔮
 * Database : Firebase 🔥 
 
 # App Design

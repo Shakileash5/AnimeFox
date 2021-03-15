@@ -2,7 +2,9 @@
 ![Build Status](https://img.shields.io/badge/build-completed-brightgreen?style=for-the-badge&logo=appveyor)
 ![Made With](https://img.shields.io/badge/Made%20With-React%20Native-lightblue?style=for-the-badge&logo=appveyor)
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shakileash5/AnimeFox/master/Static_im/anime_fox.png" width="80%">
+    <img src="https://raw.githubusercontent.com/Shakileash5/AnimeFox/master/Static_im/icon.png" width="14%">
+    <img src="https://raw.githubusercontent.com/Shakileash5/AnimeFox/master/Static_im/anime_fox.png" width="70%">
+
 </div>
 
 # AnimeFox Android App 📱

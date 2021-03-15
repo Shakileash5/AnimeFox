@@ -27,34 +27,38 @@ What makes our app standout!
 # Prerequisites
 Make sure you have knowledge about react-native,yarn and expo-cli. Follow the [official documentation](https://reactnative.dev/docs/environment-setup).
 * npm
+
   ```sh
   npm install npm@latest -g
   ```
 * npm
+
   ```sh
   npm install create-react-native-app -g
   ```
 
 # Installation
 * Clone the repo
-``` bash
-git clone https://github.com/Shakileash5/AnimeFox.git
-```
+
+    ``` bash
+    git clone https://github.com/Shakileash5/AnimeFox.git
+    ```
 * Create New project
-``` bash
-create-react-native-app AnimeFox
-```
+
+    ``` bash
+    create-react-native-app AnimeFox
+    ```
 
 * Install the Dependencies
 
-``` bash
-yarn install
-```
+    ``` bash
+    yarn install
+    ```
 * Start the server
 
-``` bash
-expo start
-```
+    ``` bash
+    expo start
+    ```
 # Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 

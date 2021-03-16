@@ -29,9 +29,9 @@ What makes our app standout!
 
 </div>
 
-# Apk Download 
+# Apk Download 🔗
  ## [Anime Fox](https://github.com/ArviRA/ANIME_STREAM/blob/master/APK/Anime_fox.apk?raw=true)
- 
+
 
 # Prerequisites
 Make sure you have knowledge about react-native,yarn and expo-cli. Follow the [official documentation](https://reactnative.dev/docs/environment-setup).
